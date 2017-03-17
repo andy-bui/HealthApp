@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/tab_home"
+        android:enabled="true"
+        android:title="@string/title_navigation_home" />
+
+    <item
+        android:id="@+id/navigation_data"
+        android:icon="@drawable/tab_my_data"
+        android:enabled="true"
+        android:title="@string/title_navigation_data" />
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/tab_news"
+        android:enabled="true"
+        android:title="@string/title_navigation_news" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/tab_settings"
+        android:enabled="true"
+        android:title="@string/title_navigation_settings" />
+</menu>
